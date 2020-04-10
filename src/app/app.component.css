@@ -1,0 +1,83 @@
+.navLinks{
+    color: white;
+    transition: all 0.3s ease 0s;
+}
+.navLinks:hover{
+    background-color: white;
+    color: #6563ee;
+}
+
+.navButton{
+    background-color: #6563ee;
+    color: white;
+    border: none;
+    margin-top: 2px;
+    margin-left: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+}
+.navButton:hover{
+    opacity: 75%;
+    background-color: white;
+    color: #6563ee;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.DownloadButton{
+    background-color: white;
+    color: #6563ee;
+    border: none;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    margin-left: 5px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+}
+
+.DownloadButton:hover {
+    background-color: #48FF48;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+
+  .fa {
+    padding: 10px;
+    font-size: 25px;
+    width: 35px;
+    text-decoration: none;
+    margin: 5px 5px;
+    background: whitesmoke;
+    color: #6563ee;
+    transition: all 0.3s ease 0s;
+  }
+  .fa:hover {
+    background-color: #6563ee;
+    color: whitesmoke;
+    transform: translateY(-7px);
+  }
+ .fa-google{
+    font-size: 25px;
+    width: 40px;
+  }
+  .fa-twitter{
+    font-size: 25px;
+    width: 40px;
+  }
+  .fa-instagram{
+    font-size: 25px;
+    width: 40px;
+  }
